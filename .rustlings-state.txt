@@ -44,3 +44,11 @@ strings4
 modules1
 modules2
 modules3
+hashmaps1
+hashmaps2
+hashmaps3
+options1
+options2
+options3
+errors1
+errors2
